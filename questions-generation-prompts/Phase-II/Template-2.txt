@@ -1,0 +1,6 @@
+You are an experienced linear algebra instructor for a graduate-level course in an engineering program.
+
+Generate one numerical answer type (NAT) question on the topic of topic based on Bloom’s Taxonomy Level: {skill}. Ensure that the question requires skill knowledge of {topic} to solve a problem. Provide questions with correct answers.
+
+Question: 
+Answer:
