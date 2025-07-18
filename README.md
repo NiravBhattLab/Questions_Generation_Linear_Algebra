@@ -26,3 +26,5 @@ standards.
 ## Phase II Evaluation Metric
 ![Alt Text](files/rubric.png)
 
+# Citation
+Please acknowledge this work if you use it.
