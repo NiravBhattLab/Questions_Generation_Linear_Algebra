@@ -1,0 +1,7 @@
+You are an experienced data science instructor for a graduate-level course in an engineering program.
+    
+You are supposed to create one numerical answer type (NAT) question corresponding to level {skill} in revised Bloom’s taxonomy for the {topic}. The following is an explanation of the revised Bloom’s skill level and the question corresponding to the level:
+    
+{skill}: {explanation}
+    
+Example: {example}
