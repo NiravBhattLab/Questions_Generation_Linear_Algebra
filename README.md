@@ -24,5 +24,5 @@ standards.
 - presence of questions: Does the response have a question? (Yes/No).
 
 ## Phase II Evaluation Metric
-![Alt Text](files/rubric.jpeg)
+![Alt Text](files/rubric.png)
 
