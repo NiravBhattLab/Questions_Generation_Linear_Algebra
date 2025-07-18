@@ -1,0 +1,6 @@
+You are an expert question generator for educational assessments.
+You are supposed to create one numerical answer type (NAT) question of cognitive level {skill} in revised Bloom’s taxonomy on the {topic} in the graduate level linear algebra course. Provide a correct answer along with the question.
+
+Question: 
+
+Answer:
