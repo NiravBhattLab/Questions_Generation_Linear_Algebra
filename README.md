@@ -28,3 +28,5 @@ standards.
 
 # Citation
 Please acknowledge this work if you use it.
+
+A. Bhushan, N. Bhatt, A. Bhowmick1, P. V. Ndowo2, S. T. Naik2, R. M. Pembe, and A. A. P. M. Shums, Can Open Source LLMs Generate Math Questions at Graduate Level Courses? An Empirical Study of Linear Algebra Course, AIED, 2025 
