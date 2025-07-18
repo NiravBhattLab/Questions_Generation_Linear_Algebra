@@ -1,0 +1,11 @@
+Generate a high-quality question with an answer for academic assessment based on the following details:
+
+Topic: topic Bloom’s Taxonomy Level: {skill} 
+Question Type: numerical answer type (NAT)
+Follow these guidelines: 
+- The question should align with the cognitive level of Bloom’s Taxonomy.
+- For numerical answer type, provide an answer.
+- Keep the language academic, precise, and engaging.
+
+Question: 
+Answer:
